@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Ryeodal0206/Images/blob/main/youtube.png?raw=true" alt="Youtube Logo" width="200"</p>
+<p align="center"><img src="https://github.com/Ryeodal0206/Images/blob/main/youtube.png?raw=true" alt="Youtube Logo" width="150"</p>
 <h1>  <p align="center">Youtube Revanced</p> </h1>
   
 ---
