@@ -9,10 +9,10 @@
 >- Nếu bản Youtube hiện tại trên máy là bản ***Youtube Revanced***, thì chỉ cần tải về ***bản mới nhất*** sau đó cài đặt và chọn `cập nhật` là xong
 
 ---
-> **1.** Tải và cài đặt file `Youtube Revanced` cài đặt như bình thường
+> **1.** Tải và cài đặt file `Youtube` cài đặt như bình thường
 > - Tải [Youtube](https://github.com/Ryeodal0206/Youtube-Revanced/releases/download/v20.12.46/youtube-revanced-v20.12.46.apk) ***`v20.12.46`***
 >
-> **2.** Tải và cài đặt `Gms Core v0.3.1.4.240913` để đăng nhập vào Youtube
+> **2.** Tải và cài đặt `Gms Core` để đăng nhập vào Youtube
 > - Tải [Gms Core](https://github.com/Ryeodal0206/Youtube-Revanced/releases/download/v20.12.46/app.revanced.android.gms-240913008.apk) ***`v0.3.1.4.240913`***
 >
 > **3.** Vậy là xong
