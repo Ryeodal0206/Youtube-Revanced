@@ -5,7 +5,8 @@
 
 ## 🛠 Hướng dẫn cài đặt
 >[!IMPORTANT]
->- Bạn phải ***gỡ bỏ Youtube*** có sẵn trên máy, hoặc ***tắt nó đi***, nếu không sẽ bị xung đột ứng dụng, và sẽ không cài đặt được bản Youtube Revanced này
+>- Trước khi cài đặt bạn phải ***gỡ bỏ Youtube*** có sẵn trên máy ***(bản cài đặt từ CH Play)***, hoặc ***tắt nó đi***, nếu không sẽ bị xung đột ứng dụng, và sẽ không cài đặt được bản Youtube Revanced này
+>- Nếu bản Youtube hiện tại trên máy là bản ***Youtube Revanced***, thì chỉ cần tải về ***bản mới nhất*** sau đó cài đặt và chọn `cập nhật` là xong
 
 ---
 1. Tải và cài đặt file `youtube-revanced-v20.12.46.apk` cài đặt như bình thường
