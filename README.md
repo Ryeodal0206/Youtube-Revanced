@@ -20,5 +20,5 @@
 ----
 >[!NOTE]
 >
->- Đôi khi Play Protect quét bảo mật, hãy ***tắt Play Protect tạm thời*** để cài đặt, vì `file .apk` là file cài đặt ngoài không phải trên CH Play nên có thông báo như vậy
+>- Đôi khi Play Protect quét bảo mật, hãy ***tắt Play Protect tạm thời*** để cài đặt, vì `file .apk` là file cài đặt ngoài, không phải trên CH Play nên có thông báo như vậy
 >- Sau khi cài đặt xong, ***mở Youtube và đăng nhập tài khoản Gmail*** để xem Youtube như bình thường
