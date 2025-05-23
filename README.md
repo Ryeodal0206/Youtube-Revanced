@@ -13,7 +13,7 @@
 > - Tải [Youtube](https://github.com/Ryeodal0206/Youtube-Revanced/releases/download/YoutubeRevanced/Youtube-v20.12.46.apk) ***`v20.12.46`***
 >
 > **2.** Tải và cài đặt `Gms Core` để đăng nhập vào Youtube
-> - Tải [Gms Core](https://github.com/Ryeodal0206/Youtube-Revanced/releases/download/v20.12.46/Gms-Core-v0.3.1.4.240913.apk) ***`v0.3.1.4.240913`***
+> - Tải [Gms Core](https://github.com/Ryeodal0206/Youtube-Revanced/releases/download/YoutubeRevanced/Gms-Core-v0.3.1.4.240913.apk) ***`v0.3.1.4.240913`***
 >
 > **3.** Vậy là xong
 
