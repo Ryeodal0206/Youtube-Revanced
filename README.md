@@ -19,6 +19,7 @@
 
 ---
 - Xem phiên bản mới nhất [tại đây](https://github.com/Ryeodal0206/Youtube-Revanced/releases)
+- [Nguồn ](https://github.com/j-hc/revanced-magisk-module/releases)
 ----
 >[!NOTE]
 >
